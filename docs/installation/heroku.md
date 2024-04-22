@@ -1,8 +1,8 @@
 # Heroku
 
-One-click Heroku deployment is available:
+One-click Build.io deployment is available:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fossasia/loklak_search)
+
 
 ### Steps for Manual Deployment
 
